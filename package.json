@@ -1,0 +1,21 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "Ecommerce app with REact and REdux",
+  "main": "index.js",
+  "repository": "https://github.com/sdemanuel95/Ecommerce",
+  "author": "Emanuel Suarez",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-loader": "^8.0.6",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "css-loader": "^3.2.0",
+    "file-loader": "^4.2.0",
+    "html-webpack-plugin": "^3.2.0",
+    "style-loader": "^1.0.0",
+    "url-loader": "^2.1.0",
+    "webpack": "2.2.1"
+  }
+}
